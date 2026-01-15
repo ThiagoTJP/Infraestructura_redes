@@ -40,5 +40,9 @@ Prueba de conectividad exitosa (Ping) entre equipos conectados a diferentes swit
 Prueba funcional de capa de aplicación: El cliente accede al servidor web mediante el dominio personalizado `uces.com`, demostrando la correcta configuración del servidor DNS y la respuesta del servicio HTTP.
 ![Prueba Web y DNS](servidor_dns_y_web.png)
 
+### 4. Asignación Dinámica de Direcciones (DHCP)
+Validación de que los dispositivos (Wireless/LAN) obtienen automáticamente su configuración IP, Gateway y DNS desde el servidor DHCP.
+![Prueba DHCP](funcionamiento_dhcp.png)
+
 **Autor:** Thiago Poletti
 [LinkedIn](https://www.linkedin.com/in/thiago-poletti/) | [GitHub](https://github.com/ThiagoTJP)
