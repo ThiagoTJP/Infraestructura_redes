@@ -30,15 +30,15 @@ A continuación se presenta evidencia técnica de la configuración y operativid
 
 ### 1. Configuración de Enrutamiento (CLI)
 Verificación de interfaces activas y tabla de enrutamiento en el Router principal mediante comandos IOS (`show ip interface brief`, `show ip route`). Se puede ver la correcta configuración de Gateways.
-![Configuración Router](rutas_ip.jpg)
+![Configuración Router](rutas_ip.png)
 
 ### 2. Conectividad Inter-Switch
 Prueba de conectividad exitosa (Ping) entre equipos conectados a diferentes switches, validando la comunicación entre ambos switches.
-![Ping entre PCs](ping_entre_pc.jpg)
+![Ping entre PCs](ping_entre_pc.png)
 
 ### 3. Servicios DNS y Web
 Prueba funcional de capa de aplicación: El cliente accede al servidor web mediante el dominio personalizado `uces.com`, demostrando la correcta configuración del servidor DNS y la respuesta del servicio HTTP.
-![Prueba Web y DNS](servidor_dns_y_web.jpg)
+![Prueba Web y DNS](servidor_dns_y_web.png)
 
 **Autor:** Thiago Poletti
 [LinkedIn](https://www.linkedin.com/in/thiago-poletti/) | [GitHub](https://github.com/ThiagoTJP)
