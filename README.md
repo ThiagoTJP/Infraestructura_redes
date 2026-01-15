@@ -1,9 +1,9 @@
-#Simulación de Infraestructura de Red Corporativa
+## Simulación de Infraestructura de Red Corporativa
 
 Este proyecto consiste en el diseño, implementación y configuración de una red corporativa simulada utilizando Cisco Packet Tracer. 
 El objetivo fue crear una topología funcional que integra servicios de red esenciales, conectividad LAN/WAN y resolución de problemas de enrutamiento, simulando un entorno empresarial real.
 
-## 📸 Topología de Red
+## Topología de Red
 
 ![Diagrama de la Red](topologia_redes.png)
 
